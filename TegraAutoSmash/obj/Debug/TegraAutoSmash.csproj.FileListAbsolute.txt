@@ -1,0 +1,11 @@
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\resources\payload.bin
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\config.txt
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\resources\TegraRcmSmash_Win64.exe
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\TegraAutoSmash.exe.config
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\TegraAutoSmash.exe
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\TegraAutoSmash.pdb
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\TegraAutoSmash.exe.CodeAnalysisLog.xml
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Debug\TegraAutoSmash.exe.lastcodeanalysissucceeded
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\obj\Debug\TegraAutoSmash.csproj.CoreCompileInputs.cache
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\obj\Debug\TegraAutoSmash.exe
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\obj\Debug\TegraAutoSmash.pdb

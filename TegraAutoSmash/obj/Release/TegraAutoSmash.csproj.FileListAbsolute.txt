@@ -1,0 +1,7 @@
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Release\readme.txt
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Release\resources\payload.bin
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Release\config.txt
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Release\resources\TegraRcmSmash_Win64.exe
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\bin\Release\TegraAutoSmash.exe
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\obj\Release\TegraAutoSmash.csproj.CoreCompileInputs.cache
+C:\Users\Allen\source\repos\TegraAutoSmash\TegraAutoSmash\obj\Release\TegraAutoSmash.exe

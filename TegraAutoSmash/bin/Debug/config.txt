@@ -1,0 +1,1 @@
+resources\TegraRcmSmash_Win64.exe resources\payload.bin
